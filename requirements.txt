@@ -1,7 +1,7 @@
 opencv-python~=4.5.2.54
-numpy~=1.20.3
+numpy~=1.22.2
 pandas~=1.2.4
-Pillow~=8.2.0
+Pillow~=9.2.0
 matplotlib~=3.4.2
 xlsxwriter~=1.4.3
 vietocr~=0.3.5
